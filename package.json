@@ -1,0 +1,29 @@
+{
+  "name": "KataTypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/jest": "^25.2.1",
+    "babel-jest": "^25.4.0",
+    "jest": "^25.4.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianKempenich/KataTypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorianKempenich/KataTypescript/issues"
+  },
+  "homepage": "https://github.com/FlorianKempenich/KataTypescript#readme"
+}
