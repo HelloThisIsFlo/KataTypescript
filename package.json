@@ -10,9 +10,12 @@
     "@babel/preset-typescript": "^7.9.0",
     "@types/jest": "^25.2.1",
     "babel-jest": "^25.4.0",
-    "jest": "^25.4.0"
+    "jest": "^25.4.0",
+    "ts-jest": "^25.4.0",
+    "typescript": "^3.8.3"
   },
   "scripts": {
+    "tdd": "jest --watch",
     "test": "jest"
   },
   "repository": {
